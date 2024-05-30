@@ -11,5 +11,6 @@
 ![Image 2](readmeImages/Image%202.jpg)
 ![Image 3](readmeImages/Image%203.png)
 
+### Individual work:
 
-
+- For the personal design part I chose the method Perlin noise and randomness to develop my own variation.
