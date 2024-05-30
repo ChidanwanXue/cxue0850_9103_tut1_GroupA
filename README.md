@@ -11,6 +11,7 @@
 ![Image 2](readmeImages/Image%202.jpg)
 ![Image 3](readmeImages/Image%203.png)
 
+
 ### Individual work:
 
 #### For the personal design part, I chose the method Perlin noise and randomness to develop my own variation.
@@ -19,3 +20,6 @@
 - This change not only enriches the visual hierarchy, but also adds a mystical and poetic atmosphere. The moon, as an important symbol in nature, further emphasises the theme of the cycle of life and the flow of time. It makes the moon not only a bright light in the night sky, but also an important symbol of culture and heritage.
 - For the background modification, I was inspired by the assignment in week 10 and changed the continuous waves to a discrete form. This design symbolises that history is a slow fluctuation driven by time, emphasising the enjoyment of every moment of the present.
 - At the same time, when the user clicks the mouse, the appearance of new circles increases the interactivity of the image, enabling the viewer to directly participate in the changes of the artwork, reflecting the continuous progress and transformation of life and history.
+
+#### Code Description
+-
