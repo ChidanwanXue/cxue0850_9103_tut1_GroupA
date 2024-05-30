@@ -39,7 +39,6 @@ class MultiCircle {
     // Generate random colors for inner circles and outer dots
     this.innerColors = this.generateRandomColors(innerMultiCircleNum, this.innerAllowedColors);
     this.outerColor = this.generateRandomColors(1, this.outerAllowedColors)[0];
-
   }
 
   update(){
@@ -150,7 +149,6 @@ function drawPolkaDotBackground() {
 
       let colorBrightness = map(waveHeight, -10, 10, 0, 120); // Adjust the brightness according to the waveform
       fill(176, 86, colorBrightness);
-
     }
   }
 }
