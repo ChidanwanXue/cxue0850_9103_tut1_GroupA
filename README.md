@@ -6,3 +6,7 @@
 
 ![Image 1](readmeImages/Image%201.png)
 
+#### We do this by constructing core elements consisting of inner concentric circles and outer dots. At the same time, we combined the Dunhuang colour scheme to adjust the colours, consider a reasonable structure, and reduce the proportion of the elements. In the end, we created a more elegant work that is as close to the original as possible.
+
+
+
