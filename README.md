@@ -30,4 +30,12 @@
   - The `myImage` variable was added and an image called `Moon.png` was loaded via the `preload()` function. This change allows each `MultiCircle` centre to display an image, adding visual hierarchy. In addition, an `update()` method has been added that uses Perlin noise to dynamically update the position and size of the `MultiCircle`. These changes make the movement of each circle look more natural and smooth.
   
 - Integration and presentation of the main circle:
-  - Added display logic for the image in `display()` which dynamically scales according to the radius of the `MultiCircle` and draws in the centre of each circle. This makes the graphics richer and more attractive.
+  - Added display logic for the image in `display()` which dynamically scales according to the radius of the `MultiCircle` and draws in the centre of each circle. This makes the graphics richer and more attractive. 
+
+- Fluctuating background realisations:
+  - The `drawPolkaDotBackground()` function has been modified to add a fluctuating effect so that the dots of the background not only change dynamically in vertical position, but also adjust the brightness of the colours by means of the waveform function. This design mimics the undulation of sand dunes, enhancing the visual effect and dynamism of the background.
+
+- Click on the new dynamic circle that appears:
+  - A new `mouseClicked()` function has been added which, when the canvas is clicked, creates a new `MultiCircle` at the clicked position.This enhances interaction with the artwork and allows the user to influence the composition of the screen.
+
+- The interaction and dynamism of the visual elements were enhanced in the individual design, mainly through the introduction of Perlin noise and image resources to more closely represent the art of Dunhuang and the layering of the images. These changes make the final result more attractive and engaging, presenting a richer and more dynamic visual experience.
