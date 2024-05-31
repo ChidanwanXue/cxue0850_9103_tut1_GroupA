@@ -19,6 +19,7 @@
 - This approach not only increases the dynamics of the visuals, but also enhances the interactivity of the image. perlin noise is used to generate more natural and continuous visuals, through which each circle is generated and dynamically changed in a unique way, symbolising the different stages in the cycle of life - growth, decay and rebirth.
 - In addition, I added the moon motif in the centre of the circle because Dunhuang murals are the jewels of ancient Chinese art, and many of them depict the moon. The moon in these murals is usually associated with religious stories or myths, demonstrating the holiness and mystery of the moon.
 ![Image 4](readmeImages/Image%204.jpg)
+
 - This change not only enriches the visual hierarchy, but also adds a mystical and poetic atmosphere. The moon, as an important symbol in nature, further emphasises the theme of the cycle of life and the flow of time. It makes the moon not only a bright light in the night sky, but also an important symbol of culture and heritage.
 - For the background modification, I was inspired by the assignment in week 10 and changed the continuous waves to a discrete form. This design symbolises that history is a slow fluctuation driven by time, emphasising the enjoyment of every moment of the present.
 - At the same time, when the user clicks the mouse, the appearance of new circles increases the interactivity of the image, enabling the viewer to directly participate in the changes of the artwork, reflecting the continuous progress and transformation of life and history.
@@ -26,6 +27,7 @@
 
 #### Code Description
 - Inserting images and dynamically updating positions:
-  - The `myImage` variable was added and an image called Moon.png was loaded via the `preload()` function. This change allows each `MultiCircle` centre to display an image, adding visual hierarchy. In addition, an `update()` method has been added that uses Perlin noise to dynamically update the position and size of the `MultiCircle`. These changes make the movement of each circle look more natural and smooth.
+  - The `myImage` variable was added and an image called `Moon.png` was loaded via the `preload()` function. This change allows each `MultiCircle` centre to display an image, adding visual hierarchy. In addition, an `update()` method has been added that uses Perlin noise to dynamically update the position and size of the `MultiCircle`. These changes make the movement of each circle look more natural and smooth.
   
--
+- Integration and presentation of the main circle:
+  - Added display logic for the image in `display()` which dynamically scales according to the radius of the `MultiCircle` and draws in the centre of each circle. This makes the graphics richer and more attractive.
