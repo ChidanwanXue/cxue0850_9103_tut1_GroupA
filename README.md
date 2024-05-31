@@ -22,5 +22,10 @@
 - This change not only enriches the visual hierarchy, but also adds a mystical and poetic atmosphere. The moon, as an important symbol in nature, further emphasises the theme of the cycle of life and the flow of time. It makes the moon not only a bright light in the night sky, but also an important symbol of culture and heritage.
 - For the background modification, I was inspired by the assignment in week 10 and changed the continuous waves to a discrete form. This design symbolises that history is a slow fluctuation driven by time, emphasising the enjoyment of every moment of the present.
 - At the same time, when the user clicks the mouse, the appearance of new circles increases the interactivity of the image, enabling the viewer to directly participate in the changes of the artwork, reflecting the continuous progress and transformation of life and history.
+![6](readmeImages/6.GIF)
 
 #### Code Description
+- Inserting images and dynamically updating positions
+  The [myImage] variable was added and an image called Moon.png was loaded via the [preload()] function. This change allows each [MultiCircle] centre to display an image, adding visual hierarchy. In addition, an [update()] method has been added that uses Perlin noise to dynamically update the position and size of the [MultiCircle]. These changes make the movement of each circle look more natural and smooth.
+  
+  
