@@ -25,7 +25,7 @@
 ![6](readmeImages/6.GIF)
 
 #### Code Description
-- Inserting images and dynamically updating positions
-  The [myImage] variable was added and an image called Moon.png was loaded via the [preload()] function. This change allows each [MultiCircle] centre to display an image, adding visual hierarchy. In addition, an [update()] method has been added that uses Perlin noise to dynamically update the position and size of the [MultiCircle]. These changes make the movement of each circle look more natural and smooth.
+- Inserting images and dynamically updating positions:
+  - The `myImage` variable was added and an image called Moon.png was loaded via the `preload()` function. This change allows each `MultiCircle` centre to display an image, adding visual hierarchy. In addition, an `update()` method has been added that uses Perlin noise to dynamically update the position and size of the `MultiCircle`. These changes make the movement of each circle look more natural and smooth.
   
-  
+-
