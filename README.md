@@ -14,6 +14,7 @@
 
 ### Individual work:
 
+![5](readmeImages/5.GIF)
 #### For the personal design part, I chose the method Perlin noise and randomness to develop my own variation.
 - This approach not only increases the dynamics of the visuals, but also enhances the interactivity of the image. perlin noise is used to generate more natural and continuous visuals, through which each circle is generated and dynamically changed in a unique way, symbolising the different stages in the cycle of life - growth, decay and rebirth.
 - In addition, I added the moon motif in the centre of the circle because Dunhuang murals are the jewels of ancient Chinese art, and many of them depict the moon. The moon in these murals is usually associated with religious stories or myths, demonstrating the holiness and mystery of the moon.
